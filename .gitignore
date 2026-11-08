@@ -1,0 +1,32 @@
+# 密钥，永远不进仓库
+glm_key.txt
+glm_key.local.txt
+
+# 媒体与中间产物
+*.mp4
+*.wav
+*.m4a
+*.flv
+*.mkv
+_scan/
+_fine_*.jpg
+old-materials/
+
+# 运行产物
+粗剪.json
+粗剪时间线.txt
+解说稿.txt
+剪辑决策.txt
+highlights.txt
+segments.json
+anchors.json
+投稿信息.txt
+_srt*.srt
+_list.txt
+_ch_*.mp4
+_seg*.mp4
+_cl*.txt
+_segs*.mp4
+
+# 示例图除外
+!docs/*.jpg
